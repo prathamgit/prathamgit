@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @prathamgit
 - 👀 I’m interested in developing solvers for cfd
-- 🌱 I’m currently learning cpp, python, and machine learning.
+- 🌱 I’m currently learning cpp, python.
+- #programmingLove #pythonIsTheBest #cppOverFortranAnyDay
 
 <!---
 prathamgit/prathamgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
